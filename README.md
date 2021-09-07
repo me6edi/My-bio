@@ -1,8 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/47064496/132361110-7f96ad46-6c77-4e00-b420-c3f52e7c22c6.gif" height="400"/>
-
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mehedi Amin</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from Bangladesh.</h3>
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/47064496/132361110-7f96ad46-6c77-4e00-b420-c3f52e7c22c6.gif" height="400" />
 
 
 ## 🙋‍♂️ About Me
